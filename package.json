@@ -1,0 +1,18 @@
+{
+  "name": "hapijs-mocha-chai",
+  "version": "1.0.0",
+  "description": "try out hapijs + mocha + chai",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapijs"
+  ],
+  "author": "muhtarudin.s",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.0.1"
+  }
+}
