@@ -8,7 +8,7 @@ server.connection({ port: 3000 });
 server.route({
     method: 'GET',
     path: '/',
-    handler: function(req, res) {
+    handler: function (req, res) {
         res('Hello World');
     }
 });
